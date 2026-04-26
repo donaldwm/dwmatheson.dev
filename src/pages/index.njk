@@ -1,0 +1,45 @@
+---
+layout: base
+permalink: /index.html
+title: 'Bits, Boots & Life'
+description: 'Index of this site.'
+blog:
+  title: 'Blog'
+  intro: "Most recent posts:"
+---
+
+<div class="wrapper">
+  <header class="full | section" style="--spot-color: var(--color-primary)">
+    <div class="section__inner flow region">
+      <h1 class="text-center" style="color: var(--color-light);">{{ title }}</h1>
+    </div>
+    {% svg "divider/pixels", null, "divider" %}
+  </header>
+
+  <article class="full | region">
+    <div class="prose wrapper flow">
+      <p>
+        Welcome to my little corner of the internet. Just the blog at the moment, and not much of that, but I have plans. There is a bit more about me on the <a href="/about/">About</a> page.
+        I am currently working as a Software Architect and coach at the grassroots level of football.
+      </p>
+    </div>
+  </article>
+  
+  <section class="full | region">
+    <div class="prose wrapper flow">
+      <h2>{{ blog.title }}</h2>
+      {% if blog.intro %}
+        <p>{{ blog.intro }}</p>
+      {% endif %}
+      <div class="feature |  region region-space-l">
+        <custom-masonry layout="50-50">
+          {% set itemList = collections.allPosts %}
+					{% asyncEach item in itemList.slice(0, 4) %}
+            {% set headingLevel = "h3" %}
+						{% include "partials/card-blog.njk" %}
+					{% endeach %}
+        </custom-masonry>
+      </div>
+    </div>
+  </section>
+</div>

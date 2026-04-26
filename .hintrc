@@ -1,0 +1,16 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "font-size-adjust",
+          "font-size-adjust: from-font"
+        ]
+      }
+    ]
+  }
+}

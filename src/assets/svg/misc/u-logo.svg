@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.71891835"
+     inkscape:cx="397.12437"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Hexagons"
+       preserveAspectRatio="xMidYMid"
+       id="pattern35"
+       patternTransform="matrix(0.11,0,0,0.11,1,1)"
+       x="0"
+       y="0" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="100"
+       height="87"
+       preserveAspectRatio="xMidYMid"
+       patternTransform="translate(1,1) scale(0.5,0.5)"
+       style="fill:#000000"
+       id="Hexagons"
+       inkscape:label="Hexagons packing grid"
+       inkscape:collect="always"
+       inkscape:isstock="true">
+      <path
+         id="path27"
+         style="stroke:none"
+         d="M 23.246093,0 0,13.382812 V 44.689453 L 0.0839844,44.640625 24.033203,58.505859 24.001953,86.332031 22.841796,87 h 4.478516 L 26.068359,86.275391 26.099609,58.449219 50.083984,44.640625 74.033203,58.505859 74.001953,86.332031 72.841796,87 h 4.478516 L 76.068359,86.275391 76.099609,58.449219 100,44.689453 V 13.365234 L 76.919921,0 H 73.246093 L 50.015625,13.373047 26.919921,0 Z M 25.083984,1.25 49.033203,15.115234 49.001953,42.941406 25.017578,56.75 1.0019531,42.845703 l 0.033203,-27.75 z m 50,0 24.017576,13.904297 -0.0352,27.75 L 75.017578,56.75 51.068359,42.884766 51.099609,15.058594 Z" />
+    </pattern>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath33">
+      <path
+         id="path33"
+         style="stroke-width:0.1;stroke-linecap:square;paint-order:markers fill stroke;stop-color:#000000"
+         d="m -880.82767,-187.29769 h 1640.84 v 73.28155 h -1640.84 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         id="path28"
+         style="stroke-width:0.1;stroke-linecap:square;paint-order:markers fill stroke;stop-color:#000000"
+         d="m -880.82767,-187.29769 h 1640.84 v 73.28155 h -1640.84 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15">
+      <path
+         id="path15"
+         style="stroke-width:0.1;stroke-linecap:square;paint-order:markers fill stroke;stop-color:#000000"
+         d="m -880.82767,-187.29769 h 1640.84 v 73.28155 h -1640.84 z" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath52">
+      <path
+         id="path52"
+         style="stroke-width:0.1;stroke-linecap:square;paint-order:markers fill stroke;stop-color:#000000"
+         d="m -880.82767,-187.29769 h 1640.84 v 73.28155 h -1640.84 z" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:url(#pattern35);stroke-width:0.264583"
+       id="path1"
+       cx="59.068775"
+       cy="85.56691"
+       r="9.7527876" />
+  </g>
+</svg>
