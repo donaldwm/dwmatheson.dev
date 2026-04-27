@@ -12,3 +12,4 @@ Think of this site as a work in progress. Ideas below are things I want to do to
 - 🟩 Finish updating the colour palette as a minimum.
         - 🟩 Stretch goal: create a larger updated design.
 - 🟩 Create a separate blog/area to showcase photos.
+- 🟩 Add comments to posts - probably using Bluesky
